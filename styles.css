@@ -1,4 +1,4 @@
-h1{font-family: Arial, Helvetica, sans-serif;font-size: 25px;color: brown}
+
 p {
     margin-top: 100px;
     margin-bottom: 100px;
@@ -12,8 +12,25 @@ div {
     padding-left: 80px;
     }
 p   {
-    background-color: burlywood;
+    background-color: #efefef;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
     }
-body {
-        background-image: url("paper.gif");
-    }    
+  
+
+img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 40%;
+    }
+.top-head {
+        display: block;
+        background-image: url("images/bg-head.png");
+        color: #efefef;
+    } 
