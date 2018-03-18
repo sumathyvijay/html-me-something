@@ -12,5 +12,8 @@ div {
     padding-left: 80px;
     }
 p   {
-    background-color: blueviolet;
+    background-color: burlywood;
+    }
+body {
+        background-image: url("paper.gif");
     }    
